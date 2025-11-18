@@ -1,0 +1,33 @@
+
+
+.header{
+  width: 100vw;
+  height: 20vh;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+.footer{
+  width: 100vw;
+  height: 20vh;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size:xx-large;
+  font-weight: bolder;
+}
+
+.main{
+  width: 100vw;
+  height: 57vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: xx-large;
+  font-weight: bolder;
+}
